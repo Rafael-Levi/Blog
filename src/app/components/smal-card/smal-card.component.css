@@ -1,0 +1,38 @@
+.container__smoll-card{
+  border-bottom: solid rgba(255, 255, 255, 0.671) 0.5px;
+
+
+  display: flex;
+
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 5px;
+  padding-bottom: 7px;
+
+}
+
+.date__smoll-card{
+  margin-left: 10px;
+  margin-top: -10px;
+  color: rgba(255, 255, 255, 0.581);
+
+}
+.title__smoll-card a {
+  color:white;
+  text-decoration: none;
+
+}
+
+
+.photo__smoll-card{
+  margin-right: 14px;
+  display: flex;
+  justify-content: center;
+
+
+}
+
+.title__smoll-card{
+  margin-left: 6px;
+  font-size: 10px;
+}
